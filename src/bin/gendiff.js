@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const program = require('commander');
-const genDiff = require('../index.js').default;
 const fs = require('fs');
+const genDiff = require('../index.js').default;
 
 program
   .description('Compares two configuration files and shows a difference.')
