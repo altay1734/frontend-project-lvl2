@@ -26,3 +26,9 @@ test('genDiff.yaml', () => {
   const after = getFixturePath('after.yaml');
   expect(genDiff(before, after)).toEqual(expected);
 });
+
+test('genDiff.ini', () => {
+  const before = getFixturePath('before.ini');
+  const after = getFixturePath('after.ini');
+  expect(genDiff(before, after)).toEqual(expected);
+});

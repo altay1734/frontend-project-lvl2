@@ -11,4 +11,12 @@
 ```
 gendiff <firstConfig> <secondConfig>
 ```
+
+## An example of how the package works.
+
+Comparing flat files (yaml)
 [![asciicast](https://asciinema.org/a/CezW0G58GtxV2jRh2DpcUurbk.svg)](https://asciinema.org/a/CezW0G58GtxV2jRh2DpcUurbk)
+
+
+Comparing flat files (ini)
+[![asciicast](https://asciinema.org/a/XhhidJQHIE4C3pDt6v0xY9tWY.svg)](https://asciinema.org/a/XhhidJQHIE4C3pDt6v0xY9tWY)
