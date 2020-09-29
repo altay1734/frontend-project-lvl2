@@ -1,6 +1,6 @@
 # Difference Calculator
 
-![Linter status](https://github.com/altay1734/frontend-project-lvl2/workflows/.github/workflows/Linter_status.yml/badge.svg)
+[![Linter status](https://github.com/altay1734/frontend-project-lvl2/workflows/Linter%20status/badge.svg)](https://github.com/altay1734/frontend-project-lvl2/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8f9340ea70b6fc08bef1/maintainability)](https://codeclimate.com/github/altay1734/frontend-project-lvl2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/8f9340ea70b6fc08bef1/test_coverage)](https://codeclimate.com/github/altay1734/frontend-project-lvl2/test_coverage)
 
@@ -11,4 +11,4 @@
 ```
 gendiff <firstConfig> <secondConfig>
 ```
-[![asciicast](https://asciinema.org/a/b7a0Qh50zfvxih76V5Y6IcjRo.svg)](https://asciinema.org/a/b7a0Qh50zfvxih76V5Y6IcjRo)
+[![asciicast](https://asciinema.org/a/CezW0G58GtxV2jRh2DpcUurbk.svg)](https://asciinema.org/a/CezW0G58GtxV2jRh2DpcUurbk)
